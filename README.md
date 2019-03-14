@@ -1,1 +1,2 @@
 # learning_pracrice
+从零开始学习下tensorflow咯
